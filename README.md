@@ -8,7 +8,7 @@ two fragments: a sports topics list and a details screen. The details screen dis
 text for the sports news.
 
 
-Used in the [Android Basics with Kotlin](https://developer.android.com/courses/android-basics-kotlin/course) course.
+https://developer.android.com/courses/pathways/android-basics-kotlin-unit-3-pathway-5
 
 
 Pre-requisites
@@ -18,8 +18,3 @@ You need to know:
 - Knowledge about Fragments.
 - Basics of Navigation
 
-
-Getting Started
----------------
-
-1. Download and run the app.
